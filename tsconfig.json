@@ -16,6 +16,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/index.mdx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/index.mdx", "scripts/gen-rss.js"],
   "exclude": ["node_modules"]
 }
