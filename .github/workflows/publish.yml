@@ -30,9 +30,6 @@ jobs:
         with:
           static_site_generator: next
 
-      - name: Generate RSS
-        run: node ./scripts/gen-rss.js
-
       - name: Build with Next.js 🏗️
         run: npx next build
 

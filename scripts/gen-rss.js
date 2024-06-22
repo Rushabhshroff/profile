@@ -11,9 +11,9 @@ async function generate() {
   })
 
   const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'))
-  const allPosts:any[] = []
+  const allPosts = []
   await Promise.all(
-    posts.map(async (name:string) => {
+    posts.map(async (name) => {
       if (name.startsWith('index.')) return
 
       const content = await fs.readFile(

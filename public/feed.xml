@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rushabh Shroff]]></title>
+        <description><![CDATA[Rushabh Shroff]]></description>
+        <link>https://rushabhshroff.github.io</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 22 Jun 2024 05:34:30 GMT</lastBuildDate>
+        <atom:link href="https://rushabhshroff.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microservices vs Monolith: Choosing the Right Architecture for Your Application]]></title>
+            <description><![CDATA[Explore the differences between microservices and monolithic architectures to make an informed decision for your application.]]></description>
+            <link>/posts/architecture</link>
+            <guid isPermaLink="true">/posts/architecture</guid>
+            <category><![CDATA[software architecture]]></category>
+            <dc:creator><![CDATA[You]]></dc:creator>
+            <pubDate>Wed, 21 Jun 2023 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Serverless Technology: Transforming Application Development]]></title>
+            <description><![CDATA[An overview of serverless technology and its impact on modern application development.]]></description>
+            <link>/posts/serverless</link>
+            <guid isPermaLink="true">/posts/serverless</guid>
+            <category><![CDATA[cloud computing]]></category>
+            <dc:creator><![CDATA[Rushabh Shroff]]></dc:creator>
+            <pubDate>Wed, 21 Jun 2023 18:30:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
